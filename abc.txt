@@ -1,0 +1,1 @@
+Hi git. iam trying to add a new file in this repository.
